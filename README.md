@@ -6,8 +6,8 @@ before that you need to install the docker on your host system.
 
 for ubuntu: install docker
 
-`sudo apt update
-sudo apt install docker.io`
+`sudo apt update`
+`sudo apt install docker.io`
 
 install docker-compose
 `sudo apt install docker-compose`
